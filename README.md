@@ -1,4 +1,4 @@
-# Spring Boot Project with Micro Services Architecture, Spring Cloud.
+# SpringBoot Project with Micro Services Architecture, Spring Cloud.
 ## Features: 
     - CRUD REST APIs using MySQL Database
     - Microservices communication: RestTemplate, WebClient and Spring Cloud OpenFeign Library
